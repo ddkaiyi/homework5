@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# WEB102 homework5 - *Moon Data*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Submitted by: **Kaiyi Dai**
 
-## Available Scripts
+**my website** It is a website that shows data of the Moon rise in 14 days
 
-In the project directory, you can run:
+Time spent: **6** hours spent in total
 
-### `npm start`
+## Required Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The following **required** functionality is completed:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* List of Data
+* The site displays a list of data fetched using an API call
+* Use the useEffect React hook and async/await syntax
+*  3 Summary Data Statistics
+* The app dashboard includes at least three summary statistics about the data, such as:
+* the total number of items in the dataset or which meet certain criteria in the dataset
+* the mean, median, mode, or other statistic of a certain aspect of the data
+* quartiles, quintiles, or ranges of the data
+* Search Data
+* A search bar allows the user to search for an item in the fetched data
+* Filter Data
+* Multiple different filters (2+) allow the user to filter items in the database by specified categories
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Video Walkthrough
 
-### `npm run build`
+Here's a walkthrough of implemented features:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src='https://github.com/ddkaiyi/homework3/blob/master/z6w9q-4rkls.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Notes
 
-### `npm run eject`
+ I learned to use the skills learned in the class to finish this job. I use Use the useEffect React hook and async/await syntax and display a list of data fetched using an API call
+ 
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    Copyright [2023] [kaiyi dai]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+        http://www.apache.org/licenses/LICENSE-2.0
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
